@@ -1,0 +1,2 @@
+rootProject.name = "PokeJava"
+include ':app'
